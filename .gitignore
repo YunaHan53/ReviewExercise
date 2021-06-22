@@ -1,1 +1,5 @@
 /target/
+*.class
+bin
+db.properties
+.settings
