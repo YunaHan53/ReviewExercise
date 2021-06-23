@@ -23,7 +23,7 @@ public class Home extends HttpServlet {
 		  
 		//writing html in the stream  
 		pw.println("<html><body>");  
-		pw.println("Welcome to servlet");  
+		pw.println("Hello this is Yuna's Servlet tyvm");  
 		pw.println("</body></html>");  
 		  
 		pw.close();//closing the stream
